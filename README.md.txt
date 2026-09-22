@@ -36,7 +36,3 @@ Chatbot: Goodbye! Have a great day!
 - Control flow (`while`, `if`/`in`)
 - Dictionaries as lookup tables (`.get()` with a fallback)
 - Basic rule-based AI system design
-
-## Author
-
-[Your Name] — DecodeLabs Intern, Batch 2026
